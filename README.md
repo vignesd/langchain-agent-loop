@@ -159,7 +159,7 @@ The discount tiers use non-obvious percentages (bronze: 5%, silver: 12%, gold: 2
 ## Quick Start
 
 ```bash
-git checkout project/agents-under-the-hood
+git checkout langchain-agent-loop
 uv sync
 ```
 
